@@ -1,0 +1,4 @@
+#cardTxt{
+  display: flex;
+  flex-wrap: wrap;
+}
